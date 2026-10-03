@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy IngAbram 👋
 
-<!--
-**Inghandsome/Inghandsome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** | Python · React · FastAPI · Flask · Docker
 
-Here are some ideas to get you started:
+Construyo aplicaciones web completas y herramientas de automatización con IA.  
+Actualmente trabajando en sistemas de control financiero para PyMEs y extractores inteligentes de documentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Frontend:** React, Vite, Tailwind CSS, Chart.js  
+**Backend:** Python, FastAPI, Flask, SQLAlchemy  
+**Base de datos:** PostgreSQL, SQLite  
+**DevOps & Tools:** Docker, GitHub Actions, Render, Vercel  
+**Otros:** OCR (Tesseract), pdfplumber, JWT
+
+### 🚀 Proyectos destacados
+- **[py-idp-invoice-extractor](https://github.com/Inghandsome/py-idp-invoice-extractor)** → Extractor de facturas con OCR + FastAPI + Docker
+- **[pyme-cashflow-tracker](https://github.com/Inghandsome/pyme-cashflow-tracker)** → Sistema de flujo de efectivo para PyMEs (React + Flask)
+
+### 📫 Contacto
+- LinkedIn: *(pon tu link)*
+- Email: *(pon tu email)*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Inghandsome&show_icons=true&theme=dark)
