@@ -16,6 +16,12 @@ Herramienta en Python que extrae datos estructurados de facturas en PDF, con sop
 Sistema web de control financiero con roles de usuario e interfaz bilingüe, desarrollado como proyecto de residencia profesional.
 **Stack:** React, Flask, SQLite
 
+### 🛒 [E-commerce](https://github.com/Inghandsome/E-commerce-)
+Proyecto de plataforma de comercio electrónico.
+
+### ⚖️ MinerTrack
+Sistema automatizado de pesaje vehicular e inventario de minerales, desarrollado durante residencia profesional en operación de caolín (ATSA).
+
 ## 🛠️ Tecnologías
 
 
